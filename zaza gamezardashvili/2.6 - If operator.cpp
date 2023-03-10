@@ -1,6 +1,7 @@
 #include <iostream>;
 
 using namespace std;
+// https://www.youtube.com/watch?v=He6ZUxt-iQ4&list=PLJTvi6Vq8-z8GgVyxJq7dTnuFxSFPYVcJ&index=5
 
 int a1, b1, a2, b2, a3, b3, a4, b4;
 
