@@ -1,13 +1,16 @@
 #include <iostream>;
 
 using namespace std;
+// https://www.aiasoft.ge/problem/327
 
 int main () {
     int x;
     int n; cin >> n;
-    for (int i = -1; i < n - 1; i++) {
-        x = i + 2;
-       if (x % 2 == 1) cout << x << " ";
-    }
+    
+    for (int i = 0; i < n; i++) {
+        x = i + 1;
+        if (x % 2 == 1) {
+        cout << x << " ";
+        }
+    }     
 }
-
