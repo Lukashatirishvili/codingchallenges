@@ -1,6 +1,7 @@
 #include <iostream>;
 
 using namespace std;
+// https://informatics.ge/problem/226
 
 int x, c, v, b;
 
